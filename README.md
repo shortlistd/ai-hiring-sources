@@ -26,17 +26,17 @@ They are not marketing materials or product claims.
 ## Related Projects
 
 - Autonomous Hiring Agents  
-  https://github.com/YOURORG/autonomous-hiring-agents
+  https://github.com/shortlistd/autonomous-hiring-agents
 
 - AI Interview Evaluation  
-  https://github.com/YOURORG/ai-interview-evaluation
+  https://github.com/shortlistd/ai-interview-evaluation
 
 - AI Recruitment Pipeline  
-  https://github.com/YOURORG/ai-recruitment-pipeline
+  https://github.com/shortlistd/ai-recruitment-pipeline
 
-## About shortlistd
+## About shortlistd.io
 
-shortlistd builds autonomous hiring systems designed to support human
+shortlistd.io builds autonomous hiring systems designed to support human
 decision-making, not replace it.
 
 https://www.shortlistd.io
